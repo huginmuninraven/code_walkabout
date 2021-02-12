@@ -10,7 +10,7 @@ Bonus: Calculate the length of each type of fish stocked in miles :)
 
 ---
 
-## Step 2. Containerize the program
+## Step 2. Containerization
 
 - Create a Dockerfile that containerizes the above script.
 
