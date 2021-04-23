@@ -25,4 +25,4 @@ Bonus: Calculate the length of each type of fish stocked in miles :)
 ## Step 4: Documentation
 
 - Document the build/execution instructions in a README file in your project.  
-Provide a url to the interviewer with your completed project.
+Provide a url or .tgz file to the interviewer with your completed project.
